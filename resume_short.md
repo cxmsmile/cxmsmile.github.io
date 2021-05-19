@@ -67,25 +67,25 @@ Skills
 
 Publications 
 --------------
-* **Xingmin Cui**, Da Yu, Patrick P. F. Chan, Lucas Chi Kwong Hui, Siu-Ming Yiu, Sihan Qing CoChecker: Detecting Capability and Sensitive Data Leaks from Component Chains in Android. ACISP, 2014\
-* **Xingmin Cui**, Jingxuan Wang, Lucas Chi Kwong Hui, Zhongwei Xie, Tian Zeng, Siu-Ming Yiu WeChecker: efficient and precise detection of privilege escalation vulnerabilities in Android apps. WiSEC, 2015\
-* Jia Chen, **Xingmin Cui**, Ziming Zhao, Jie Liang, Shanqing Guo Toward discovering and exploiting private server-side web APIs. ICWS, 2016\
-* Liu Yang, **Xingmin Cui**, Changyuan Wang, Shanqing Guo, Xin-Shun Xu Risk Analysis of Exposed Methods to JavaScript in Hybrid Apps. Trustcom, 2016\
-* Jingxuan Wang, Lucas Chi Kwong Hui, Siu-Ming Yiu, **Xingmin Cui**, Eric Ke Wang, Jun-bin Fang A Survey on the Cyber Attacks Against Non-linear State Estimation in Smart Grids. ACISP 2016\
+* **Xingmin Cui**, Da Yu, Patrick P. F. Chan, Lucas Chi Kwong Hui, Siu-Ming Yiu, Sihan Qing CoChecker: Detecting Capability and Sensitive Data Leaks from Component Chains in Android. ACISP, 2014
+* **Xingmin Cui**, Jingxuan Wang, Lucas Chi Kwong Hui, Zhongwei Xie, Tian Zeng, Siu-Ming Yiu WeChecker: efficient and precise detection of privilege escalation vulnerabilities in Android apps. WiSEC, 2015
+* Jia Chen, **Xingmin Cui**, Ziming Zhao, Jie Liang, Shanqing Guo Toward discovering and exploiting private server-side web APIs. ICWS, 2016
+* Liu Yang, **Xingmin Cui**, Changyuan Wang, Shanqing Guo, Xin-Shun Xu Risk Analysis of Exposed Methods to JavaScript in Hybrid Apps. Trustcom, 2016
+* Jingxuan Wang, Lucas Chi Kwong Hui, Siu-Ming Yiu, **Xingmin Cui**, Eric Ke Wang, Jun-bin Fang A Survey on the Cyber Attacks Against Non-linear State Estimation in Smart Grids. ACISP 2016
 * **Xingmin Cui**, Lucas CK Hui, SM Yiu, Yu Hin Tsang Study of censorship in named data networking. In Advanced Multimedia and Ubiquitous Engineering 145-152, 2016\
-* **Xingmin Cui**, Yu Hin Tsang, Lucas CK Hui, SM Yiu, Bo Luo Defend against Internet censorship in named data networking, ICACT, 2016\
-* Junjie Tang, **Xingmin Cui**, Ziming Zhao, Shanqing Guo, Xin-Shun Xu, Chengyu Hu, Tao Ban, Bing Mao NIVAnalyzer: a tool for automatically detecting and verifying next-intent vulnerabilities in Android apps. ICST, 2017\
+* **Xingmin Cui**, Yu Hin Tsang, Lucas CK Hui, SM Yiu, Bo Luo Defend against Internet censorship in named data networking, ICACT, 2016
+* Junjie Tang, **Xingmin Cui**, Ziming Zhao, Shanqing Guo, Xin-Shun Xu, Chengyu Hu, Tao Ban, Bing Mao NIVAnalyzer: a tool for automatically detecting and verifying next-intent vulnerabilities in Android apps. ICST, 2017
 * **Xingmin Cui**, Ruiyi He, Lucas C. K. Hui, Siu-Ming Yiu, Gang Zhou, Eric Ke Wang Reconstruction of task lists from Android applications. ICISA, 2017
 
 
 Travel History
 --------------
-* United States (2015, 2018~2021)\
-* Taiwan (2013, 2016, 2018)\
-* Japan (2016)\
-* Macau (2012, 2016)\
-* South Korea (2016)\
-* Singapore (2014)\
+* United States (2015, 2018~2021)
+* Taiwan (2013, 2016, 2018)
+* Japan (2016)
+* Macau (2012, 2016)
+* South Korea (2016)
+* Singapore (2014)
 * Australia (2014)
 * Hong Kong (2012~2016)
 

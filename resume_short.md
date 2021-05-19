@@ -17,7 +17,7 @@ Phone: 1-6506953603, 86-13126753733
 
 Email (Work): xingmin@google.com
 
-Email (Personal) sducxm@gmail.com
+Email (Personal): sducxm@gmail.com
 
 Education
 ---------
@@ -30,7 +30,6 @@ Thesis: Data privacy of Android applications and name privacy of NDN
 2008.09 - 2012.06\
 **Bachelor, Software Engineering**. Shandong University, China\
 Website: https://www.sdu.edu.cn \
-Overall GPA: ??/100; Rank: 1/357
 
 
 Employment
@@ -45,7 +44,7 @@ Job Duties: Build the infra of Google Ads Attribution to help advertisers unders
 **Amazon China**\
 Address: Building A, Ocean International Center, 56 East 4th Ring Road, Chaoyang District, Beijing 100025, China\
 Job Title: **Software Engineer**\
-Job Duties: Build fee related services for FBA (Fulfillment By Amazon), such as fee calculation, fee preview reports, etc; launch FBA services in new countries.
+Job Duties: Build fee related services for FBA (Fulfillment By Amazon), such as fee calculation, fee preview reports.
 
 2016.08 - 2017.01\
 **Huawei Technologies**\
@@ -57,7 +56,7 @@ Job Duties: Build a system to identify the current user of the mobile device bas
 **Amazon China**\
 Address: Building A, Ocean International Center, 56 East 4th Ring Road, Chaoyang District, Beijing 100025, China\
 Job Title: **Software Engineer Intern**\
-Job Duties: Build a pipeline to parse daily logs and generate service status report. 
+Job Duties: Build a pipeline to parse daily logs and generate service status reports. 
 
 Skills
 --------------
@@ -83,7 +82,7 @@ Reconstruction of task lists from Android applications. ICISA, 2017
 
 Travel History
 --------------
-United States (2015, 2018)\
+United States (2015, 2018~2021)\
 Taiwan (2013, 2016, 2018)\
 Japan (2016)\
 Macau (2012, 2016)\

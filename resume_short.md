@@ -3,18 +3,12 @@ Resume (Xingmin Cui)
 
 Personal Information
 --------------------
-Name: Xingmin Cui (崔兴敏)
-
-Gender: Female
-
-Date of Birth: 02/01/1991
-
-Place of Birth: Dezhou, China
-
-Home Address: 942 Aster Ct, Sunnyvale, CA, 94086
-
-Phone: 1-6506953603, 86-13126753733
-
+Name: Xingmin Cui (崔兴敏) \
+Gender: Female \
+Date of Birth: 02/01/1991 \
+Place of Birth: Dezhou, China \
+Home Address: 942 Aster Ct, Sunnyvale, CA, 94086 \
+Phone: 1-6506953603, 86-13126753733 \
 Email: sducxm@gmail.com, xingmin@google.com
 
 Education

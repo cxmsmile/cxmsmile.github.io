@@ -14,15 +14,14 @@ Email: sducxm@gmail.com, xingmin@google.com
 Education
 ---------
 * 2012.09 - 2016.08\
-**Ph.D, Computer Science**. The University of Hong Kong, Hong Kong\
-Website: https://www.hku.hk \
+**Ph.D, Computer Science** \
+The University of Hong Kong, Hong Kong\
 Research Interests: Android Program Analysis, Computer Networks\
 Thesis: Data privacy of Android applications and name privacy of NDN
 
 * 2008.09 - 2012.06\
-**Bachelor, Software Engineering**. Shandong University, China\
-Website: https://www.sdu.edu.cn \
-
+**Bachelor, Software Engineering** \
+Shandong University, China
 
 Employment
 ----------

@@ -44,35 +44,28 @@ Employment
 Address: 1600 Amphitheatre Parkway Mountain View, CA 94043\
 Website: https://www.google.com \
 Job Title: **Software Engineer**\
-Job Description:
-  *
-  *
+Job Duties: Build the infra of Google Ads Attribution to help advertisers understand the performance of their advertising and inform future decisions about budget allocation and optimization.
 
 2017.01 - 2018.05\
 **Amazon China**\
 Address: Building A, Ocean International Center, 56 East 4th Ring Road, Chaoyang District, Beijing 100025, China\
 Website: https://www.amazon.cn/ \
 Job Title: **Software Engineer**\
-Job Description: 
- * Build fee related services for FBA (Fulfillment By Amazon), such as fee calculation, fee preview reports, etc. 
- * Launch FBA services in new countries.
-
+Job Duties: Build fee related services for FBA (Fulfillment By Amazon), such as fee calculation, fee preview reports, etc; launch FBA services in new countries.
 
 2016.08 - 2017.01\
 **Huawei Technologies**\
 Address: 156 Zhongguancun Beiqing Road, Haidian District, Beijing, 100095，China\
 Website: https://www.huawei.com/ \
 Job Title: **Software Engineer**\
-Job Description: 
- * Mobile identification system: identify the current user of the mobile device based on usage patterns.
+Job Duties: Build a system to identify the current user of the mobile device based on usage patterns.
 
 2015.05 - 2015.08\
 **Amazon China**\
 Address: Building A, Ocean International Center, 56 East 4th Ring Road, Chaoyang District, Beijing 100025, China\
 Website: https://www.amazon.cn/ \
 Job Title: **Software Engineer Intern**\
-Job Description: 
- * Build a pipeline to parse daily logs and generate service status report. 
+Job Duties: Build a pipeline to parse daily logs and generate service status report. 
 
 Skills
 --------------

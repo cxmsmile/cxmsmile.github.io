@@ -29,7 +29,7 @@ Employment
 **Google LLC**\
 Address: 1600 Amphitheatre Parkway Mountain View, CA 94043\
 Job Title: **Software Engineer**\
-Job Duties: Build the infra of Google Ads Attribution to help advertisers understand the performance of their advertising and inform decisions about budget allocation and optimization.
+Job Duties: Build the infrastructure of Google Ads Attribution to help advertisers understand the performance of their advertising and inform decisions about budget allocation and optimization.
 
 * 2017.01 - 2018.05\
 **Amazon China**\
@@ -51,9 +51,9 @@ Job Duties: Build a pipeline to parse daily logs and generate service status rep
 
 Skills
 --------------
-* Programming language: JAVA, C++, Python\
-* Proficient in BigData processing infra such as Flume, MapReduce.\
-* Proficient in Spark sql, AWS services (EMR, SQS, DynamoDB, S3).\
+* Programming language: JAVA, C++
+* Proficient in BigData processing infra such as Flume, MapReduce.
+* Proficient in Spark sql, AWS services (EMR, SQS, DynamoDB, S3).
 * Strong analytical and problem-solving skills; Good teamwork and communication skills. 
 
 

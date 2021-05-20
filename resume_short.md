@@ -35,19 +35,19 @@ Job Duties: Build the infrastructure of Google Ads Attribution to help advertise
 **Amazon China**\
 Address: Building A, Ocean International Center, 56 East 4th Ring Road, Chaoyang District, Beijing 100025, China\
 Job Title: **Software Engineer**\
-Job Duties: Build fee related services for FBA (Fulfillment By Amazon), such as fee calculation, fee preview reports.
+Job Duties: Build fee related services for FBA (Fulfillment By Amazon), including fee calculation, fee preview reports.
 
 * 2016.08 - 2017.01\
 **Huawei Technologies**\
 Address: 156 Zhongguancun Beiqing Road, Haidian District, Beijing, 100095，China\
 Job Title: **Software Engineer**\
-Job Duties: Build a system to identify the current user of the mobile device based on usage patterns.
+Job Duties: Develop software on Android devices.
 
 * 2015.05 - 2015.08\
 **Amazon China**\
 Address: Building A, Ocean International Center, 56 East 4th Ring Road, Chaoyang District, Beijing 100025, China\
 Job Title: **Software Engineer Intern**\
-Job Duties: Build a pipeline to parse daily logs and generate service status reports. 
+Job Duties: Build the pipeline to help sellers remove their products in FBA storage. 
 
 Skills
 --------------

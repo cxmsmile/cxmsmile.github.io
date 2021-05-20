@@ -47,7 +47,7 @@ Job Duties: Develop software on Android devices.
 **Amazon China**\
 Address: Building A, Ocean International Center, 56 East 4th Ring Road, Chaoyang District, Beijing 100025, China\
 Job Title: **Software Engineer Intern**\
-Job Duties: Build the pipeline to help sellers remove their products in FBA storage. 
+Job Duties: Develop software to help sellers remove their products from the FBA storage. 
 
 Skills
 --------------
@@ -82,6 +82,10 @@ Travel History
 * Australia (2014)
 * Hong Kong (2012~2016)
 
+Travelling With
+--------------
+Zhichao zhao (my husband)
+Luke Qixuan Zhao (my son, US citizen, 10-month old)
 
 
 

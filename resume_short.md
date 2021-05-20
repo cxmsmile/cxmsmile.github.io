@@ -84,8 +84,8 @@ Travel History
 
 Travelling With
 --------------
-Zhichao zhao (my husband)
-Luke Qixuan Zhao (my son, US citizen, 10-month old)
+* Zhichao zhao (my husband)
+* Luke Qixuan Zhao (my son, US citizen, 10-month old)
 
 
 

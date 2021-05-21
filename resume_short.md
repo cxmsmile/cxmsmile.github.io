@@ -79,9 +79,9 @@ Publications
 
 Travel History
 --------------
-* United States (2015, 2018~2021)
+* United States (2015, 2018-2021)
 * Taiwan (2013, 2016, 2018)
-* Hong Kong (2012~2016)
+* Hong Kong (2012-2016)
 * Japan (2016)
 * South Korea (2016)
 * Macau (2012, 2016)

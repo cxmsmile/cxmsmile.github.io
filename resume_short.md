@@ -7,7 +7,7 @@ Name: Xingmin Cui (崔兴敏) \
 Gender: Female \
 Date of Birth: 02/01/1991 \
 Place of Birth: Dezhou, China \
-Home Address: 942 Aster Ct, Sunnyvale, CA, 94086 \
+Home Address: 942 ASTER CT, Sunnyvale, CA, 94086 \
 Phone: 1-6506953603, 86-13126753733 \
 Email: sducxm@gmail.com, xingmin@google.com
 
@@ -16,7 +16,7 @@ Education
 * 2012.09 - 2016.08\
 **Ph.D, Computer Science** \
 The University of Hong Kong, Hong Kong\
-Research Interests: Android Program Analysis, Computer Networks\
+Research Topics: Android Program Analysis, Computer Networks.\
 Thesis: Data privacy of Android applications and name privacy of NDN
 
 * 2008.09 - 2012.06\
@@ -30,7 +30,7 @@ Employment
 Address: 1600 Amphitheatre Parkway Mountain View, CA 94043\
 Job Title: **Software Engineer**\
 Job Duties: 
-  * Develop software for Google Ads Attribution to give advertisers a better understanding of their marketing performance using Google infrastructure.
+  * Develop software for Google Ads Attribution to give advertisers a better understanding of their marketing performance using Google's infrastructure.
   * Extend Google Ads Attribution to cover all the major channels of Google Ads, including Search Ads, YouTube Ads, Display Ads.
 
 * 2017.01 - 2018.05\
@@ -57,7 +57,7 @@ Job Duties:
 
 Skills
 --------------
-* Programming language: JAVA, C++
+* Programming languages: JAVA, C++
 * Proficient in BigData processing techniques using Google infrastructure.
 * Proficient in Spark sql, AWS services (EMR, SQS, DynamoDB, S3).
 * Strong analytical and problem-solving skills; Good teamwork and communication skills. 
@@ -80,11 +80,11 @@ Publications
 Travel History
 --------------
 * United States (2015, 2018-2021)
-* Taiwan (2013, 2016, 2018)
 * Hong Kong (2012-2016)
 * Japan (2016)
-* South Korea (2016)
 * Macau (2012, 2016)
+* South Korea (2016)
+* Taiwan (2013, 2016, 2018)
 * Singapore (2014)
 * Australia (2014)
 

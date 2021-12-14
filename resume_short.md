@@ -19,7 +19,7 @@ Work Experience
 2018.11 - 2021.06
 :   **Software Engineer, Google, Mountain View**
 
-*   *Expand Google Ads Attribution*
+*   *Expand Google Ads Attribution (GAA)*
 
     * Introduction: Expand the coverage of Google Ads Attribution from Search Ads only to Search+YouTube+Display+Discover Ads.
 

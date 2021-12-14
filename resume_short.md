@@ -1,97 +1,89 @@
-Resume (Xingmin Cui)
+Xingmin Cui
 ============
+> Email: sducxm@gmail.com
 
-Personal Information
---------------------
-Name: Xingmin Cui (崔兴敏) \
-Gender: Female \
-Date of Birth: 02/01/1991 \
-Place of Birth: Dezhou, China \
-Home Address: 942 ASTER CT, Sunnyvale, CA, 94086 \
-Phone: 1-6506953603, 86-13126753733 \
-Email: sducxm@gmail.com, xingmin@google.com
 
 Education
 ---------
-* 2012.09 - 2016.08\
-**Ph.D, Computer Science** \
-The University of Hong Kong, Hong Kong\
-Research Topics: Android Program Analysis, Computer Networks.\
-Thesis: Data privacy of Android applications and name privacy of NDN
+2012.09 - 2016.08
+:   **Ph.D, Computer Science. The University of Hong Kong, Hong Kong**
 
-* 2008.09 - 2012.06\
-**Bachelor, Software Engineering** \
-Shandong University, China
+*    *Research Topics*: Android Security, Program Analysis, Applied Cryptography
 
-Employment
-----------
-* 2018.11 - present\
-**Google LLC**\
-Address: 1600 Amphitheatre Parkway Mountain View, CA 94043\
-Job Title: **Software Engineer**\
-Job Duties: 
-  * Develop software for Google Ads Attribution to give advertisers a better understanding of their marketing performance using Google's infrastructure.
-  * Extend Google Ads Attribution to cover all the major channels of Google Ads, including Search Ads, YouTube Ads, Display Ads.
-
-* 2017.01 - 2018.05\
-**Amazon China**\
-Address: Building A, Ocean International Center, 56 East 4th Ring Road, Chaoyang District, Beijing 100025, China\
-Job Title: **Software Engineer**\
-Job Duties: 
-  * Build fee related services for FBA (Fulfillment By Amazon), including fee calculation, fee preview reports.
-  * Launch FBA services in new countries.
-
-* 2016.08 - 2017.01\
-**Huawei Technologies**\
-Address: 156 Zhongguancun Beiqing Road, Haidian District, Beijing, 100095, China\
-Job Title: **Software Engineer**\
-Job Duties: 
-  * Develop software on Android devices.
-
-* 2015.05 - 2015.08\
-**Amazon China**\
-Address: Building A, Ocean International Center, 56 East 4th Ring Road, Chaoyang District, Beijing 100025, China\
-Job Title: **Software Engineer Intern**\
-Job Duties: 
-  * Develop software to help sellers remove their products from the FBA (Fulfillment By Amazon) storage. 
-
-Skills
---------------
-* Programming languages: JAVA, C++
-* Proficient in BigData processing techniques using Google infrastructure.
-* Proficient in Spark sql, AWS services (EMR, SQS, DynamoDB, S3).
-* Strong analytical and problem-solving skills; Good teamwork and communication skills. 
+2008.09 - 2012.06
+:   **Bachelor, Software Engineering. Shandong University, China** 
 
 
+Work Experience
+---------------
+2018.11 - 2021.06
+:   **Software Engineer, Google, Mountain View**
 
-Publications 
---------------
-* **Xingmin Cui**, Da Yu, Patrick P. F. Chan, Lucas Chi Kwong Hui, Siu-Ming Yiu, Sihan Qing: CoChecker: Detecting Capability and Sensitive Data Leaks from Component Chains in Android. ACISP, 2014
-* **Xingmin Cui**, Jingxuan Wang, Lucas Chi Kwong Hui, Zhongwei Xie, Tian Zeng, Siu-Ming Yiu: WeChecker: efficient and precise detection of privilege escalation vulnerabilities in Android apps. WiSEC, 2015
-* Jia Chen, **Xingmin Cui**, Ziming Zhao, Jie Liang, Shanqing Guo: Toward discovering and exploiting private server-side web APIs. ICWS, 2016
-* Liu Yang, **Xingmin Cui**, Changyuan Wang, Shanqing Guo, Xin-Shun Xu: Risk Analysis of Exposed Methods to JavaScript in Hybrid Apps. Trustcom, 2016
-* Jingxuan Wang, Lucas Chi Kwong Hui, Siu-Ming Yiu, **Xingmin Cui**, Eric Ke Wang, Jun-bin Fang: A Survey on the Cyber Attacks Against Non-linear State Estimation in Smart Grids. ACISP 2016
-* **Xingmin Cui**, Lucas CK Hui, SM Yiu, Yu Hin Tsang: Study of censorship in named data networking. In Advanced Multimedia and Ubiquitous Engineering 145-152, 2016
-* **Xingmin Cui**, Yu Hin Tsang, Lucas CK Hui, SM Yiu, Bo Luo: Defend against Internet censorship in named data networking, ICACT, 2016
-* Junjie Tang, **Xingmin Cui**, Ziming Zhao, Shanqing Guo, Xin-Shun Xu, Chengyu Hu, Tao Ban, Bing Mao: NIVAnalyzer: a tool for automatically detecting and verifying next-intent vulnerabilities in Android apps. ICST, 2017
-* **Xingmin Cui**, Ruiyi He, Lucas C. K. Hui, Siu-Ming Yiu, Gang Zhou, Eric Ke Wang: Reconstruction of task lists from Android applications. ICISA, 2017
+*   *Expand Google Ads Attribution*
+
+    * Introduction: Expand the coverage of Google Ads Attribution from Search Ads only to Search+YouTube+Display+Discover Ads.
+
+    * Responsibilities: Main contributor of the design and implementation for the expansion in GAA processing pipeline.
+    
+    * Related techniques: Flume, Conduit, Borg 
+
+2017.01-2018.05
+:   **Software Engineer, Amazon, Beijing**
+
+*   *FBA FeePreview Report*
+
+    * Introduction: Build a system to generate fee preview report, which gives the estimated fees to be charged from sellers.
+
+    * Responsibilities: Design and implement the report generation system; Work together with external team for report display.
+
+    * Related techniques: Spark sql, EMR, SQS, DynamoDB, S3, EDX, Athena, Coral Service, DJS, Guice, Spring
+
+*    *FBA Australia launch* 
+
+     * Introduction: Launch FBA in AU.
+
+     * Responsibilities: Set FBA fees for AU and launch fee-related services. Work together with PM, TPM and SDEs from downstream and upstream teams (SPEAR, Accounting, etc.). Launched 7 types of fees and 5 fee-related services in AU.
+
+     * Related techniques: G2S2, Herd, DynamoDB, Simple workflow
+
+2016.08 - 2017.01
+:   **Huawei Technologies, Security Engineer Intern (mobile security)**
+
+*   *Identification system based on behavioral information* 
+
+    * Introduction: Check whether the current user is the owner of the mobile device using his behavioral information, e.g. the pattern when he types in his password.
+     
+    * Responsibilities: Prototype design
+
+    * Related techniques: Feature extraction, classification
+
+2015.05 - 2015.08
+:   **Amazon China, Software Engineer Intern**
+
+*    *Online log parser* 
+    
+     * Introduction: Build a system to parse daily logs and generate report for abnormal behavior (e.g. fatal rate exceeds threshold); Support online query with keywords (eg. transaction id) to get the log context for debug.
+     * Responsibilities: System design and implementation.
+     
+     * Techniques: Elastic Search, Kibana
+
+Technical Skills
+----------------
+* Programming Languages: Java, C++, Python
+* Hands on experience in Google internal techniques/tools like Flume, Borg, Conduit, GoogleSql, building and testing frameworks, etc. 
+* Hands on experience in Spark sql, AWS Services(EMR, SQS, DynamoDB, S3), Spring Framework
+* Research experience in mobile security, program analysis, applied Cryptography.
+* Knowledge in machine learning techniques.
+* Strong analytical and problem-solving skills & Good teamwork and communication skills.
 
 
-Travel History
---------------
-* United States (2015, 2018-2021)
-* Hong Kong (2012-2016)
-* Japan (2016)
-* Macau (2012, 2016)
-* South Korea (2016)
-* Taiwan (2013, 2016, 2018)
-* Singapore (2014)
-* Australia (2014)
-
-Travelling With
---------------
-* Zhichao Zhao (my husband)
-* Luke Qixuan Zhao (my son, US citizen, 10-month old)
-
-
-
+Publications
+------------
+* CoChecker: Detecting Capability and Sensitive Data Leaks from Component Chains in Android. In Proceedings of the 19th Australasian Conference on Information Security and Privacy (ACISP), 2014
+* WeChecker:efficient and precise detection of privilege escalation vulnerabilities in Android apps. In Proceedings of the 8th ACM Conference on Security & Privacy in Wireless and Mobile Networks (WiSEC). ACM, 2015
+* Toward discovering and exploiting private server-side web APIs. In the 23rd IEEE International Conference on WebServices (ICWS), 2016
+* Risk Analysis of Exposed Methods to JavaScript in Hybrid Apps.IEEE Trustcom/BigDataSE/ISPA, 2016
+* A Survey on the Cyber Attacks Against Non-linear State Estimation in Smart Grids. ACISP 2016
+* Defend against Internet censorship in named data networking. In International Conference on Advanced Communication Technology (ICACT), 2016
+* Study of censorship in named data networking. In Advanced Multimedia and Ubiquitous Engineering 145-152, 2016
+* NIVAnalyzer: a tool for automatically detecting and verifying next-intent vulnerabilities in Android apps. In IEEE International Conference on Software Testing, Verification and Validation (ICST), 2017

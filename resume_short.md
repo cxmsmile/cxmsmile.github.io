@@ -62,7 +62,7 @@ Work Experience
 Technical Skills
 ----------------
 * Programming Languages: Java, C++, Python
-* Hands on experience in Google internal techniques/tools like Flume, Borg, Conduit, GoogleSql, building and testing frameworks, etc. 
+* Hands on experience in Google internal techniques/tools like Flume, Borg, Conduit, GoogleSql, build and testing frameworks, etc. 
 * Hands on experience in Spark sql, AWS Services(EMR, SQS, DynamoDB, S3), Spring Framework
 * Research experience in mobile security, program analysis, applied Cryptography.
 * Knowledge in machine learning techniques.

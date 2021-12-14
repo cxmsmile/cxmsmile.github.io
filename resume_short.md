@@ -25,26 +25,18 @@ Work Experience
 
     * Responsibilities: Main contributor of the design and implementation for the expansion in GAA processing pipeline.
     
-    * Related techniques: Flume, Conduit, Borg 
+    * Related techniques: Flume, Conduit, Borg, Googlesql
 
 2017.01-2018.05
 :   **Software Engineer, Amazon, Beijing**
 
-*   *FBA FeePreview Report*
+*   *Build FBA FeePreview Report and launch FBA in new countries*
 
-    * Introduction: Build a system to generate fee preview report, which gives the estimated fees to be charged from sellers.
+    * Introduction: Build a system to generate fee preview report, which gives the estimated fees to be charged from sellers; Launch FBA in Australia.
 
-    * Responsibilities: Design and implement the report generation system; Work together with external team for report display.
+    * Responsibilities: Design and implement the fee preview report generation system and work together with external team for report display. Work with PM, TPM and SDEs from downstream and upstream teams (SPEAR, Accounting, etc.) to set FBA fees for AU and launch fee related services. Launched 7 types of fees and 5 fee-related services in AU.
 
-    * Related techniques: Spark sql, EMR, SQS, DynamoDB, S3, EDX, Athena, Coral Service, DJS, Guice, Spring
-
-*    *FBA Australia launch* 
-
-     * Introduction: Launch FBA in AU.
-
-     * Responsibilities: Set FBA fees for AU and launch fee-related services. Work together with PM, TPM and SDEs from downstream and upstream teams (SPEAR, Accounting, etc.). Launched 7 types of fees and 5 fee-related services in AU.
-
-     * Related techniques: G2S2, Herd, DynamoDB, Simple workflow
+    * Related techniques: Spark sql, EMR, SQS, DynamoDB, S3, EDX, Athena, Coral Service, Simple workflow
 
 2016.08 - 2017.01
 :   **Huawei Technologies, Security Engineer Intern (mobile security)**

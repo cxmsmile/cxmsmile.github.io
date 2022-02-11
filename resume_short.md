@@ -16,7 +16,7 @@ Education
 
 Work Experience
 ---------------
-2018.11 - 2021.06
+2018.11 - 2021.06, 2022.01 - present
 :   **Software Engineer, Google, Mountain View**
 
 *   *Expand Google Ads Attribution (GAA)*
@@ -24,8 +24,6 @@ Work Experience
     * Introduction: Expand the coverage of Google Ads Attribution from Search Ads only to Search+YouTube+Display+Discover Ads.
 
     * Responsibilities: Main contributor of the design and implementation for the expansion in GAA processing pipeline.
-    
-    * Related techniques: Flume, Conduit, Borg, Googlesql
 
 2017.01-2018.05
 :   **Software Engineer, Amazon, Beijing**
@@ -36,18 +34,12 @@ Work Experience
 
     * Responsibilities: Design and implement the fee preview report generation system and work together with external team for report display. Work with PM, TPM and SDEs from downstream and upstream teams (SPEAR, Accounting, etc.) to set FBA fees for AU and launch fee related services. Launched 7 types of fees and 5 fee-related services in AU.
 
-    * Related techniques: Spark sql, EMR, SQS, DynamoDB, S3, EDX, Athena, Coral Service, Simple workflow
-
 2016.08 - 2017.01
-:   **Huawei Technologies, Security Engineer Intern (mobile security)**
+:   **Huawei Technologies, Software Engineer**
 
 *   *Identification system based on behavioral information* 
 
     * Introduction: Check whether the current user is the owner of the mobile device using his behavioral information, e.g. the pattern when he types in his password.
-     
-    * Responsibilities: Prototype design
-
-    * Related techniques: Feature extraction, classification
 
 2015.05 - 2015.08
 :   **Amazon China, Software Engineer Intern**
@@ -55,9 +47,7 @@ Work Experience
 *    *Online log parser* 
     
      * Introduction: Build a system to parse daily logs and generate report for abnormal behavior (e.g. fatal rate exceeds threshold); Support online query with keywords (eg. transaction id) to get the log context for debug.
-     * Responsibilities: System design and implementation.
-     
-     * Techniques: Elastic Search, Kibana
+
 
 Technical Skills
 ----------------

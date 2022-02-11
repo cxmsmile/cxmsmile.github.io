@@ -61,7 +61,7 @@ Technical Skills
 Publications
 ------------
 * WeChecker:efficient and precise detection of privilege escalation vulnerabilities in Android apps. In Proceedings of the 8th ACM Conference on Security & Privacy in Wireless and Mobile Networks (WiSEC). ACM, 2015
-* * Risk Analysis of Exposed Methods to JavaScript in Hybrid Apps.IEEE Trustcom/BigDataSE/ISPA, 2016
+* Risk Analysis of Exposed Methods to JavaScript in Hybrid Apps.IEEE Trustcom/BigDataSE/ISPA, 2016
 * Toward discovering and exploiting private server-side web APIs. In the 23rd IEEE International Conference on WebServices (ICWS), 2016
 * CoChecker: Detecting Capability and Sensitive Data Leaks from Component Chains in Android. In Proceedings of the 19th Australasian Conference on Information Security and Privacy (ACISP), 2014
 * A Survey on the Cyber Attacks Against Non-linear State Estimation in Smart Grids. ACISP 2016

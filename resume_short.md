@@ -1,6 +1,6 @@
 Xingmin Cui
 ============
-> Email: sducxm@gmail.com
+
 
 
 Education

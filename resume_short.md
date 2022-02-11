@@ -54,17 +54,16 @@ Technical Skills
 * Programming Languages: Java, C++, Python
 * Hands on experience in Google internal techniques/tools like Flume, Borg, Conduit, GoogleSql, build and testing frameworks, etc. 
 * Hands on experience in Spark sql, AWS Services(EMR, SQS, DynamoDB, S3), Spring Framework
-* Research experience in mobile security, program analysis, applied Cryptography.
 * Knowledge in machine learning techniques.
 * Strong analytical and problem-solving skills & Good teamwork and communication skills.
 
 
 Publications
 ------------
-* CoChecker: Detecting Capability and Sensitive Data Leaks from Component Chains in Android. In Proceedings of the 19th Australasian Conference on Information Security and Privacy (ACISP), 2014
 * WeChecker:efficient and precise detection of privilege escalation vulnerabilities in Android apps. In Proceedings of the 8th ACM Conference on Security & Privacy in Wireless and Mobile Networks (WiSEC). ACM, 2015
+* * Risk Analysis of Exposed Methods to JavaScript in Hybrid Apps.IEEE Trustcom/BigDataSE/ISPA, 2016
 * Toward discovering and exploiting private server-side web APIs. In the 23rd IEEE International Conference on WebServices (ICWS), 2016
-* Risk Analysis of Exposed Methods to JavaScript in Hybrid Apps.IEEE Trustcom/BigDataSE/ISPA, 2016
+* CoChecker: Detecting Capability and Sensitive Data Leaks from Component Chains in Android. In Proceedings of the 19th Australasian Conference on Information Security and Privacy (ACISP), 2014
 * A Survey on the Cyber Attacks Against Non-linear State Estimation in Smart Grids. ACISP 2016
 * Defend against Internet censorship in named data networking. In International Conference on Advanced Communication Technology (ICACT), 2016
 * Study of censorship in named data networking. In Advanced Multimedia and Ubiquitous Engineering 145-152, 2016
